@@ -18,4 +18,4 @@ The **Two Sum Java Project** is a simple yet effective implementation of the cla
 Before you begin, ensure you have met the following requirements:
 
 - **Java Development Kit (JDK):** Version 8 or higher installed. You can download it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
-- **JUnit 5:** The project uses JUnit 5 for unit testing. Ensure it's included in your project's dependencies. If you're using Maven or Gradle, you can add the necessary configurations (examples provided below).
+- **JUnit 5:** The project uses JUnit 5 for unit testing. Ensure it's included in your project's dependencies.
